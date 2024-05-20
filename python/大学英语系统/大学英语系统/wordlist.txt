@@ -1,0 +1,261 @@
+abstract	 n. 摘要,抽象的东西
+adj. 抽象的,理论的
+vt. 移除,摘要,偷
+vi. 做摘要
+abstraction	 n. 抽象, 抽象概念, 心不在焉
+accomplish	 vt. 完成
+accuracy	 n. 准确(性), 精确度
+affiliated	 adj. 附属的, 有关连的
+algorithm	 n. 算法
+algorithmic	 adj.[计]算法的,规则系统的
+alias	 n. 别名,化名
+adv. 又被称为，另外地
+aliasing	 n. 图形失真，声音失真
+allocate	 v. 分派, 分配, 分配额
+alternative	 adj. 两者择一的; 供选择的; 非主流的
+n. 替换物, 取舍
+ambiguous	 adj. 模棱两可的
+anticipate	 vt. 预期，期望；占先，抢先；提前使用
+apparatus	 n. 装置, 器具, 机构, 组织
+arbitrary	 adj. 任意的, 专制的, 武断的, 霸道的
+archery	 n. 箭术
+architecture	 n. 建筑学, 建筑业, 建筑物, 结构
+ [总称]建筑物, 建筑风格
+argument	 n. 辩论,争论,论点(据),理由
+arithmetic	 n. 算术
+ascending	 adj. 上升的
+动词ascend的现在分词
+assert	 vt. 主张,声明,断言
+assignment	 n. 分配,功课,任务,被指定的(课外)作业;(分派的)任务, 委派
+asymptotic	 adj.[数]渐近线的,渐近的
+automobile	 n. 汽车
+adj. 汽车的
+balance	 n. 天平, 平衡, 差额, 平静, 调和, 制衡
+vt. 使平衡, 称重量, 权衡, 抵消
+vi. 建立平衡, 均衡
+binary	 adj. 二进位的,二元的
+n. 二进制,二元
+bind	 vt. 绑,约束,装订,粘合
+bisection	 n.两断,对分
+blank	 adj. 空白的, 茫然的, 全部的, 面无表情的, 未完工的
+n. 空白(处), 空隙, 空虚, (有弹药而无弹头的)空弹
+vi. 消失, 走神
+vt. 使模糊不清, 删除, 封闭, (比赛时连续得分)使对手得零分
+block	 n.块； 街区； <英>大楼，大厦； 障碍物，阻碍
+vt.阻止； 阻塞； 限制
+bookmark	 n. 书签
+bound	 n. 跳跃,界限,范围
+adj. 必定的，受约束的,装订的,有义务的
+vt. 跳跃前进，形成界限
+bundle	 n. 捆,束,一批,一大笔钱
+vt. 捆,匆匆送走,附赠
+vi. 匆忙
+calculator	 n. 计算器
+canopy	 n. 天篷, 遮篷, 苍穹
+capitalize	 v. 以大写字母写, 使...资本化, 计算...的现价
+capture	 n. 抓取,战利品,捕获之物
+vt. 抓取,获得,迷住
+cardiovascular	 adj. 心脏血管的
+cascade	 n. 瀑布，[电]串联
+v. 瀑布似地落下，（将...）连结，串联
+category	 n. 种类, 类别
+checker	 n. &lt;古&gt;西洋棋, 棋子
+n. 检验器, 检查员, 方格
+vt. 制成方格式(交错地)
+circumference	 n. 圆周, 周围, 胸围
+clause	 n. 分句, 从句, 条款, 款项
+clue	 n. 线索
+vt. 提示
+cluster	 n. 串,丛,群
+v. 聚合,成串,丛生,使...聚集
+code	 n. 码,密码,法规,准则
+vt. 把...编码,制成法典
+coherent	 adj. 互相耦合的,清晰的，明了的，凝聚性的,连贯的
+collection	 n. 收藏品,收集物,小组,集合
+comma	 n. 逗号，停顿，间歇
+n. 银纹多角蛱蝶
+command	 n.命令，指挥； 司令部，指挥部； [计算机]指令； 控制力
+vt.指挥，控制，命令； 命令； 应得，值得
+vi.给出命令； 命令，指令
+adj.指挥的，根据命令（或要求）而作的
+comparison	 n. 比较
+compiler	 n. 编辑者，[计算机]编译器, 编译程序
+complexity	 n. 复杂，复杂性, 复杂的事物
+compound	 n. 混合物,复合词
+adj. 复(混)合的,合成的
+vt. 混合,调合,妥协
+vi. 混合,妥协
+computable	 adj. 可计算的
+computation	 n. 计算，计算机的使用，计算方法，计算结果
+computational	 adj. 计算的，电脑的
+compute	 vt. 计算
+concatenate	 v. 连结,连锁
+adj. 连锁的
+concatenation	 n. 连结, 一连串
+conceptualize	 vt. 概念化
+conditional	 adj. 有条件的, 假定的，假设的
+n. [语]条件句
+configuration	 n. 结构,布局,形态,格式塔心理完形
+[计算机] 配置
+conform	 vt. 使一致,遵守,使顺从
+vi. 一致,符合
+conquer	 vt. 征服, 战胜, 克服
+vi. 得胜
+console	 vt. 安慰,慰藉
+n. 仪表盘,操控台,(游戏)平台
+construct	 vt. 构造,绘制,建造,想出
+n. 构想,建造物
+convert	 v. 使转变, 使...改变信仰, 倒置
+n. 皈依者, 改宗者
+correspond	 vi. 符合,通信,相当
+corresponding	 adj. 符合的, 一致的, 相同的, 相应的, 相当的
+covert	 adj. 隐蔽的, 偷偷摸摸的, 隐密的n. 藉口, 树丛, 蔽覆羽翮基部的羽毛
+crash	 v. 撞碎, 猛使...破碎, 迫降，发出巨响
+n. 轰隆声, 猛撞, 崩溃, 破产, 垮台
+adj. 速成的
+n. 粗布
+crucial	 adj. 关键的,决定性的
+cube	 n. 立方体,立方
+vt. 求...的立方
+adj. 立方的
+cumbersome	 adj. 笨重的
+current	 n. (水、气、电)流, 趋势
+adj. 流通的, 现在的, 最近的
+dealt	 动词deal的过去式和过去分词
+debug	 v.调试，驱除（某处的)害虫，排除障碍，纠正...的错误，寻出并拆除...内的窃听器
+decimal	 adj. 十进位的,小数的
+n. 小数
+declarative	 adj. 宣言的，布告的, 说明的, 陈述的, 演说的
+decode	 v. 解码, 译解
+[计算机] 译码
+deduce	 vt. 演绎,推断,溯源
+default	 n. 假设值,默认(值),不履行责任,缺席
+v. 默认,不履行义务,缺席,拖欠
+[计算机] 缺省
+defensive	 adj. 防卫的, 防备用的, 辩护的
+n. 守势, 防卫姿势, 防卫物
+demo	 n. 示威, 样本唱片
+denote	 vt. 象征,表示
+deposit	 vt. 存放, 堆积, 使沉淀
+vi. 沉淀
+n. 存款, 定金, 堆积物
+derivative	 adj. 引出的,系出的
+n. 引出之物,系出物,衍生字
+n. 导数, 微商
+deviation	 n. 偏差数, 偏离，出轨，背盟
+diagram	 n. 图解,图表
+vt. 用图解法表示
+dictionary	 n. 词典, 字典, 辞典
+difference	 n. 差异,分歧
+vt. 引起区别
+disc	 n. 圆盘，[电子] 唱片（等于disk）
+    vt. 灌唱片
+discretion	 n. 谨慎,判断力,个人选择,选择的自由
+[计算机] 判定
+disregard	 n. 不理会, 漠视
+vt. 忽视, 不顾
+distinct	 adj. (from)独特的,不同的,明显的,清楚的
+distribution	 n. 分发, 分配, 散布, 分布
+division	 n. 区分,分开,除法,公司,部门，师（军队里）
+divisor	 n. 除数
+doctorate	 n. 博士学位
+documentation	 n. 文件
+driver	 n. 驾驶员, 司机
+dub	 vt. 配音；轻点；打击；授予称号
+n. 笨蛋；鼓声
+duplicate	 n. 副本,复制品
+adj. 复制的,二重的
+vt. 复制,重复
+vi. 重复
+[计算机] 复制
+ease	 n. 安乐,安逸,悠闲
+vt. 使...安乐,使...安心
+v. 减轻,放松
+editor	 n. 编辑, 编者
+encapsulate	 v. 装入胶囊, 封进内部, 压缩
+encapsulation	 包装,封装
+endpoint	 n. 端点，[化]滴定终点
+engage	v. 啮合；雇用；聘用；吸引住（注意力、兴趣）；参与，从事
+enigma	 n. 费解的事情，谜，谜一般的人
+enroll	 vt. &vi. 登记,使加入,卷起
+entry	 n. 进入,入口,登记,项目
+enumeration	 n.列举
+environment	 n. 环境,外界
+epsilon	 n. 希腊语字母之第五字, [数]小的正数
+equivalent	 adj. 等价的, 相等的
+n. 相等物
+essentially	 adv. 本质上,本来
+evaluate	 vt. 评估,评价
+exception	 n. 除外,例外
+execute	 vt. 执行,处决，实行,完成
+[计算机] 执行
+exhaustive	 adj. 无遗漏的, 彻底的, 详尽的
+exponentiation	 n. [数]求幂
+exterminate	 vt. 扑灭, 消灭, 根绝
+factorial	 adj. 阶乘的，因数的
+n. 阶乘
+fetal	 adj. 胎儿的,胎的
+fix	 vt. &vi. 使...固定,修理,准备
+n. 困境, (船只、飞机等的)定方位,贿赂
+flag	 n. 旗标,旗子,信号旗
+vt. 打旗号
+vi. 无力地下垂,减退
+flexibility	 n. 灵活性, 柔韧性，适应性
+float	 n. 漂流物,装有轮子的展台或平板车,企业的日常零钱
+vt. 使漂浮,提出,开办新公司,洽谈
+vi. 漂浮,游荡,飘
+formalism	 n. 拘泥形式, 形式主义, 虚礼
+fraction	 n. 分数, 小部分, 破片
+frame	 n. 框,结构,骨架
+v. 构成，把...框起来，陷害
+adj. 木结构的
+generalization	 n. 一般化, 普遍化, 概括，泛论
+generate	 vt. 产生,发生,引起
+[计算机] 产生
+gestation	 n. 怀孕, 孕育时期
+gigabyte	 n. 千兆字节
+guarantee	 n. 保证(书), 担保(书)
+n. 担保人; 抵押品
+vt. 保证, 担保
+GUI	 图形用户界面
+halt	 n. 停止，中止; 暂停; 小火车站
+vt. 使停止; 使中断; 阻止; 使立定
+vi. 停止，立定; 犹豫
+handle	 n. 柄,把手
+vt. 买卖,处理,操作
+vi. 驾驭
+handler	 n. 处理者，处理器
+n. 畜禽的训练者
+n. 拳击教练，（明星等的）经理人
+hence	 adv. 今后, 从此, 因此, 所以
+heuristic	 试探的, 启发式的
+hierarchy	 n. 等级制度，层级[计],统治集团
+hint	 n. 暗示,提示,小部分
+vt. &vi. 暗示,示意
+hypothesis	 n. 假设, 猜测, 前提
+identifier	 n. 标识符
+illustrate	 vt. 举例说明,作图解
+vi. 举例
+immutable	 adj. 不可变的,不变的,不能变的
+imperative	 n. 命令, 诫命, 需要
+adj. 命令式的, 急需的
+implement	 n. 工具, 器具; 当工具的物品
+vt. 实施, 执行; 向...提供工具(或手段)
+implementation	 n.执行
+implication	 n. 暗示,含意
+import	 n. 进口
+vi. 进口,输入
+vt. 输入,进口
+inclusive	 adj. 包含...在内的, 包罗广泛的, 包括端点的
+[计算机] 包括的
+incorporate	 vt.组成公司； 包含； 使混合； 使具体化
+vi.包含； 吸收； 合并； 混合
+increment	 n. 增加(增加物, 增量, 余差)
+indentation	 n. 刻痕，印压, 缩进, （海岸线等）凹进处
+index	 n.索引； <数>指数； 指示； 标志
+vt.给…编索引； 把…编入索引； [经济学]按生活指数调整（工资、价格等）
+vi.[机械学]转位
+indicate	 v.指明, 表明, 显示, 象征, 指示
+indication	 n. 象征,迹象,指示,表示
+indirection	 n. 间接, 不坦率，欺骗，漫无目标
+induction	 n. 就职,感应,归纳法,序言
